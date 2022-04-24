@@ -9,7 +9,6 @@ def open_file():
     global in_path 
     in_path = filedialog.askopenfile(filetypes=[("Sequence files", ".seq")])
 
-    #print(in_path.name)
 
 def convert_file():
     if in_path:
@@ -48,5 +47,3 @@ convert_button.grid(row=1, column=0)
 
 
 root.mainloop()
-
-# os.system("ffmpeg -i test/V000.seq test/converted.mp4")
