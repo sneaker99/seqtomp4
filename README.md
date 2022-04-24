@@ -13,5 +13,9 @@ cd seq-to-mp4
 The only package that you need is `ffmpeg`, you can install it from the original website or you can follow my instaructions.
 Download the `ffmpeg.exe` file from this [link](https://www.dropbox.com/s/1zavyzasnehkiaq/ffmpeg.exe?dl=1).
 
-**NOTE:** The ffmpeg file that you will download needs to be in the same directory of your project `seq-to-mp4`.
+NOTE: The ffmpeg file that you will download needs to be in the same directory of your project `seq-to-mp4`.
+------------------------------------------------------------------------------------------------------
 
+Final App
+
+<img width="400" alt="app" src="https://user-images.githubusercontent.com/37108394/164988979-b09427ce-670a-4e6c-b244-917a1fa521dc.PNG">
