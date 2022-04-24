@@ -2,6 +2,7 @@
 
 In this repository, you can find a tkinter application to convert Seq files (jpeg sequences) into mp4 videos using ffmpeg. It is available for windows only.
 
+You can read [this post](https://pycad.co/seq-files-into-mp4/) to know which command was used for this conversion.
 ## Packages
 ### The code
 The only thing that you need to do is to clone this repository using this line
