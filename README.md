@@ -19,4 +19,8 @@ Download the `ffmpeg.exe` file from this [link](https://www.dropbox.com/s/1zavyz
 
 ## Final App
 
+```
+python main.py
+```
+
 <img width="400" alt="app" src="https://user-images.githubusercontent.com/37108394/164988979-b09427ce-670a-4e6c-b244-917a1fa521dc.PNG">
